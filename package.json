@@ -1,0 +1,31 @@
+{
+  "name": "pixilator",
+  "version": "1.0.0",
+  "description": "A small imgure like website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnhaley81/pixilator.git"
+  },
+  "keywords": [
+    "imgur",
+    "image",
+    "hosting",
+    "hoster"
+  ],
+  "author": "John Haley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnhaley81/pixilator/issues"
+  },
+  "homepage": "https://github.com/johnhaley81/pixilator",
+  "dependencies": {
+    "consolidate": "^0.10.0",
+    "express": "^4.10.7",
+    "handlebars": "^2.0.0",
+    "path": "^0.11.14"
+  }
+}
